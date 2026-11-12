@@ -15,3 +15,6 @@ __pycache__/
 .trae/
 .trae-html-share-packages/
 .screenshots/
+
+# competition data (kept on D:\Datasets\UAV-创意二, accessed via junction)
+创意二文件/
